@@ -50,5 +50,8 @@ a = np.zeros((3,3))
 print(a)
 print(a.shape)
 
+a = torch.zeros((3,3))
+print(a)
+print(a.shape)
 
 
